@@ -1,4 +1,6 @@
-BITS 32
+
+	; PROGRAM TO PRINT THE NUMBER OF SECONDS FROM 1ST JANUARY 1970 UTC
+
 extern printf
 
 section .rodata

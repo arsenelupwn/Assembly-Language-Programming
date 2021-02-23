@@ -1,3 +1,6 @@
+
+	; PROGRAM TO CREATE A FILE	
+
 section .rodata
 	filename: db "readme.txt", 0
 	

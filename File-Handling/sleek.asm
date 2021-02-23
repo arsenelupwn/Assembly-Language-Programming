@@ -1,3 +1,6 @@
+
+	; PROGRAM TO UPDATE THE EXESTING FILE WITH SOME NEW CONTENT
+
 section .rodata
 	filename: db "readme.txt", 0
 	updated: db "--updated--", 0

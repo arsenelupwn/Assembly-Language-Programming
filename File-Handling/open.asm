@@ -1,3 +1,6 @@
+
+	; PROGRAM TO OPEN A FILE
+
 section .rodata
 	filename: db "readme.txt", 0
 	contents: db "Hello World!", 0

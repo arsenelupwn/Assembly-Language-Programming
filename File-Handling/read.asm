@@ -1,3 +1,6 @@
+
+	; PROGRAM TO READ FROM A FILE
+
 extern printf
 
 section .rodata

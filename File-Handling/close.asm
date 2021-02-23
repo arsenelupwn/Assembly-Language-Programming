@@ -1,3 +1,6 @@
+
+	; PROGRAM TO CLOSE THE ALREADY OPENED FILE WHICH WE OPENED DURING THE PREVIOUS PROGRAM
+
 extern printf
 
 section .rodata
@@ -49,7 +52,3 @@ section .text
 
 	leave
 	ret
-
-
-
-
